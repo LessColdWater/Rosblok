@@ -1,1 +1,2 @@
 paste = "psDrw5BX"
+gg.alert("Please re-download the script because the one you're using has been blocked. Use the latest version with the number 1 at the end, for example: Game_XIU[1].lua")
