@@ -1,1 +1,1 @@
-paste = "websitexiu"
+paste = "ServerURL"
