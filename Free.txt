@@ -1,2 +1,1 @@
-gg.alert("If you encounter issues connecting to the server, please disable DNS, VPN, or similar services.")
 paste = "psDrw5BX"
