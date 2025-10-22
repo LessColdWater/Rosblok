@@ -1,2 +1,2 @@
 gg.alert("Announcement: free script is currently under maintenance. I’m working on version 2 to make feature activation much faster and to add a backup server system in case the free server gets attacked again")
-paste = ""
+paste = "psDrw5BX"
