@@ -1,1 +1,2 @@
 paste = "8Dfu3y3n"
+altPaste = "x60X6JeA2W60Rr2d"
