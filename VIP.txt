@@ -1,2 +1,2 @@
 paste = "faEAVrRU"
-altPaste = "mjr1lLfBlZfXIruS"
+altPaste = "21NFAdjO0BsZWOL8"
